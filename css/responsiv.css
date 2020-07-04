@@ -1,0 +1,12 @@
+@media (max-width:998px){
+	.navbar-nav{
+
+		margin-top: 30px!important;
+
+	}
+	.navbar-nav li a:hover:before{
+
+	width: 10%;
+	
+}
+}
